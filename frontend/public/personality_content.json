@@ -1,0 +1,785 @@
+{
+  "ISTJ": {
+    "nickname": "The Logistician",
+    "description": "ISTJs are practical, fact-oriented individuals with a deep sense of responsibility. Known as 'The Logistician,' they are reliable, hardworking, and dedicated to their duties. They value tradition, loyalty, and doing things the right way.",
+    "strengths": [
+      "Highly responsible and dependable - people know they can count on you",
+      "Excellent organizational and time-management skills",
+      "Strong attention to detail and quality standards",
+      "Loyal and committed in relationships and careers",
+      "Practical problem-solving approach with proven methods",
+      "Ability to follow through on commitments",
+      "Clear sense of right and wrong - strong ethical foundation"
+    ],
+    "weaknesses": [
+      "Can be rigid and resistant to change or new approaches",
+      "Tendency to get overly focused on rules and procedures",
+      "Difficulty expressing emotions or understanding emotional needs",
+      "May seem cold or aloof to those who don't know them",
+      "Can be judgmental of those who don't share their values",
+      "Struggle with spontaneity and flexibility",
+      "May work too hard and neglect personal well-being"
+    ],
+    "careers": [
+      "Accountant or financial auditor",
+      "Project manager or operations manager",
+      "Military officer or law enforcement",
+      "Database administrator",
+      "Dentist or surgeon",
+      "Building inspector",
+      "Real estate appraiser",
+      "Magistrate or judge"
+    ],
+    "relationshipsTips": [
+      "You show love through loyalty and reliability - make sure your partner knows this",
+      "Try to be more expressive with your feelings - your partner needs to hear them",
+      "Respect your partner's need for spontaneity, even if it makes you uncomfortable",
+      "Create structured 'date nights' to ensure quality time together",
+      "Don't assume your partner understands your commitment - tell them"
+    ],
+    "growthAreas": [
+      "Learn to embrace change as an opportunity, not a threat",
+      "Practice expressing emotions and vulnerability with trusted people",
+      "Challenge yourself to try new experiences and be spontaneous occasionally",
+      "Develop empathy by listening to others' feelings without judgment",
+      "Remember that there are often multiple 'right' ways to do things",
+      "Balance your work ethic with self-care and relaxation",
+      "Be more open to feedback and alternative perspectives"
+    ]
+  },
+
+  "ISFJ": {
+    "nickname": "The Defender",
+    "description": "ISFJs are warm, caring individuals with a strong sense of duty. Known as 'The Defender,' they are loyal friends, devoted partners, and conscientious workers. They find deep satisfaction in helping others and creating harmony in their environments.",
+    "strengths": [
+      "Genuinely caring and supportive - people feel valued around you",
+      "Exceptional listening skills and emotional awareness",
+      "Highly reliable and dedicated to supporting others",
+      "Detail-oriented and conscientious in all tasks",
+      "Natural ability to remember and honor important details in others' lives",
+      "Strong sense of duty and responsibility",
+      "Creates warm, welcoming environments wherever they go"
+    ],
+    "weaknesses": [
+      "Tendency to take criticism too personally",
+      "Can be overly sensitive and easily hurt",
+      "Struggle to set boundaries and say 'no'",
+      "May suppress their own needs to help others",
+      "Can be overly trusting and vulnerable to exploitation",
+      "Resistance to change, preferring familiar routines",
+      "Difficulty speaking up about problems until they explode"
+    ],
+    "careers": [
+      "Nurse or healthcare provider",
+      "Teacher or educator",
+      "Social worker or counselor",
+      "Human resources specialist",
+      "Veterinarian or animal care worker",
+      "Chef or restaurant manager",
+      "Librarian or archivist",
+      "Preschool teacher"
+    ],
+    "relationshipsTips": [
+      "Your loyalty is admirable - make sure you don't lose yourself in relationships",
+      "Communicate your own needs and boundaries clearly",
+      "Don't assume your partner can read your mind - express your feelings",
+      "Be prepared that not everyone will reciprocate your level of devotion",
+      "Create alone time to recharge and focus on yourself"
+    ],
+    "growthAreas": [
+      "Learn to prioritize your own needs equally with others' needs",
+      "Develop thicker skin and don't take feedback as personal attacks",
+      "Practice saying 'no' without guilt or extensive explanation",
+      "Challenge yourself to embrace change and try new approaches",
+      "Build confidence in your own opinions and perspectives",
+      "Address conflicts directly rather than letting them build up",
+      "Remember that helping yourself is not selfish"
+    ]
+  },
+
+  "INFJ": {
+    "nickname": "The Advocate",
+    "description": "INFJs are rare, insightful individuals driven by deep values and a desire to make the world better. Known as 'The Advocate,' they combine creative vision with practical action. They are natural leaders with strong intuition and genuine concern for others' growth.",
+    "strengths": [
+      "Exceptional ability to understand complex human motivations and emotions",
+      "Strong sense of purpose and alignment with core values",
+      "Visionary thinkers who see possibilities others miss",
+      "Genuine desire to help others grow and reach their potential",
+      "Excellent at one-on-one relationships and mentoring",
+      "Determined and persistent in pursuing meaningful goals",
+      "Natural leaders who inspire loyalty and trust"
+    ],
+    "weaknesses": [
+      "Tendency to be perfectionistic and self-critical",
+      "Can be overly idealistic and disappointed by reality",
+      "Struggle with self-promotion or advocating for themselves",
+      "Difficulty taking criticism, especially about their motives",
+      "May become emotionally exhausted from taking on others' burdens",
+      "Can be condescending toward those who don't share their values",
+      "Tendency to make decisions based on gut feeling over facts"
+    ],
+    "careers": [
+      "Counselor or psychotherapist",
+      "Life coach or mentor",
+      "Human rights advocate or activist",
+      "Non-profit leader or manager",
+      "Writer or author",
+      "University professor or educator",
+      "Organizational development consultant",
+      "Religious leader or chaplain"
+    ],
+    "relationshipsTips": [
+      "Your idealism about relationships is beautiful - protect it without being naive",
+      "Share your vision with your partner, but allow them their own path",
+      "Remember that you cannot fix or save your partner - they must do their own work",
+      "Be vulnerable and share your doubts, not just your ideals",
+      "Create rituals that strengthen your emotional connection"
+    ],
+    "growthAreas": [
+      "Accept that not everyone will see what you see or care what you care about",
+      "Learn to take care of your own emotional needs before others'",
+      "Develop a thicker skin and realize criticism doesn't define your worth",
+      "Balance idealism with pragmatism - small steps toward big goals",
+      "Practice delegation and trust others to carry the load",
+      "Ground yourself in present reality, not just future potential",
+      "Remember that different values can be equally valid"
+    ]
+  },
+
+  "INTJ": {
+    "nickname": "The Architect",
+    "description": "INTJs are strategic, independent thinkers with a clear vision for the future. Known as 'The Architect,' they are natural planners who see long-term implications others miss. They are driven by competence and meaningful achievement in pursuits they believe in.",
+    "strengths": [
+      "Exceptional strategic thinking and long-term planning abilities",
+      "Highly independent and self-directed",
+      "Strong intellectual capabilities and quick learners",
+      "Clear sense of personal goals and values",
+      "Confidence in their own competence and decision-making",
+      "Ability to see patterns and connections others miss",
+      "Determination and persistence in achieving goals"
+    ],
+    "weaknesses": [
+      "Can be overly blunt and tactless in communication",
+      "Tendency to be arrogant about their own intelligence",
+      "Difficulty understanding or valuing others' emotional needs",
+      "Can be dismissive of others' ideas that don't align with their logic",
+      "Struggle with emotional intimacy and vulnerability",
+      "May become cold or critical when stressed",
+      "Difficulty accepting that they might be wrong"
+    ],
+    "careers": [
+      "Strategic planner or manager",
+      "Software architect or engineer",
+      "Research scientist or analyst",
+      "Management consultant",
+      "Lawyer or judge",
+      "University professor or researcher",
+      "Executive or CEO",
+      "Systems analyst"
+    ],
+    "relationshipsTips": [
+      "Your intelligence is attractive - remember to validate your partner's strengths too",
+      "Learn to listen without planning to respond or critique",
+      "Express appreciation directly and specifically",
+      "Make time for your partner even when pursuing ambitious goals",
+      "Try to understand emotions not as illogical, but as valid data"
+    ],
+    "growthAreas": [
+      "Develop emotional intelligence and empathy for others' perspectives",
+      "Practice diplomatic communication - you can be honest without being harsh",
+      "Remember that being right is not always the goal in relationships",
+      "Learn to value collaboration and others' contributions",
+      "Challenge your tendency to work in isolation",
+      "Develop patience with those who process information differently",
+      "Accept that some of the most important things in life can't be planned"
+    ]
+  },
+
+  "ISTP": {
+    "nickname": "The Virtuoso",
+    "description": "ISTPs are logical, practical problem-solvers who enjoy understanding how things work. Known as 'The Virtuoso,' they are adaptable, independent, and action-oriented. They excel at troubleshooting and finding elegant solutions to complex problems.",
+    "strengths": [
+      "Exceptional mechanical and technical abilities",
+      "Excellent troubleshooting and problem-solving skills",
+      "Calm under pressure and adaptable to changing circumstances",
+      "Independent and self-reliant",
+      "Honest and straightforward communication style",
+      "Ability to master complex technical skills quickly",
+      "Efficient and productive when focused on a task"
+    ],
+    "weaknesses": [
+      "Difficulty expressing emotions or connecting emotionally",
+      "Can appear insensitive or indifferent to others' feelings",
+      "Tendency to withdraw or become distant in relationships",
+      "Struggle with long-term commitment and following through",
+      "May seem reckless or impulsive in risk-taking",
+      "Difficulty understanding others' need for emotional support",
+      "Can be overly critical and blunt in feedback"
+    ],
+    "careers": [
+      "Mechanical or civil engineer",
+      "Computer technician or systems administrator",
+      "Pilot or air traffic controller",
+      "Surgeon or dentist",
+      "Electrician or plumber",
+      "Athletic coach or trainer",
+      "Firefighter or emergency responder",
+      "Police detective"
+    ],
+    "relationshipsTips": [
+      "Show affection through actions and quality time doing activities together",
+      "Communicate your commitment clearly even if you don't express feelings easily",
+      "Give your partner space to do their own thing - don't feel threatened",
+      "Try to check in emotionally, even when it feels uncomfortable",
+      "Remember that your partner may need words, not just actions"
+    ],
+    "growthAreas": [
+      "Develop better emotional awareness and expression",
+      "Learn to follow through on commitments even when interest wanes",
+      "Understand that your independence doesn't mean you can't be vulnerable",
+      "Practice empathy by asking 'how do you feel?' and really listening",
+      "Challenge your tendency to keep people at arm's length",
+      "Remember that some problems require emotional, not just logical, solutions",
+      "Develop patience with processes that can't be rushed or optimized"
+    ]
+  },
+
+  "ISFP": {
+    "nickname": "The Adventurer",
+    "description": "ISFPs are sensitive, artistic individuals who live in harmony with their values. Known as 'The Adventurer,' they are spontaneous, flexible, and appreciative of beauty. They are genuine, compassionate, and bring warmth to any setting.",
+    "strengths": [
+      "Genuine warmth and kindness toward others",
+      "Strong aesthetic sense and appreciation for beauty",
+      "Flexible and adaptable to changing circumstances",
+      "Brave in following their own path despite social pressure",
+      "Loyal and devoted in close relationships",
+      "Creative and artistic talents",
+      "Ability to live in the present moment without excessive worry"
+    ],
+    "weaknesses": [
+      "Can be overly sensitive to criticism",
+      "Tendency to withdraw or give up when faced with conflict",
+      "May struggle with practical financial management",
+      "Can be impulsive without considering long-term consequences",
+      "Difficulty expressing anger or standing up for themselves",
+      "May avoid important conversations or responsibilities",
+      "Struggle with long-term planning and structure"
+    ],
+    "careers": [
+      "Artist or designer",
+      "Musician or performer",
+      "Veterinarian or animal groomer",
+      "Landscaper or gardener",
+      "Fashion designer or stylist",
+      "Culinary artist or chef",
+      "Physical therapist",
+      "Childcare provider"
+    ],
+    "relationshipsTips": [
+      "Your sensitivity is a gift - don't let others diminish it",
+      "Communicate your needs gently but directly",
+      "Don't withdraw when hurt - share what you're feeling",
+      "Balance your desire for harmony with the need for honesty",
+      "Find partners who appreciate your artistic and creative nature"
+    ],
+    "growthAreas": [
+      "Develop thicker skin - feedback isn't rejection of you as a person",
+      "Learn to express anger and disagreement in healthy ways",
+      "Practice difficult conversations before resentment builds up",
+      "Build financial literacy and long-term planning skills",
+      "Challenge yourself to defend your values even if uncomfortable",
+      "Remember that disappointing others sometimes is necessary and healthy",
+      "Develop persistence in pursuing your artistic or personal goals"
+    ]
+  },
+
+  "INFP": {
+    "nickname": "The Mediator",
+    "description": "INFPs are imaginative, idealistic individuals driven by core values. Known as 'The Mediator,' they are passionate about authenticity and personal growth. They are creative, compassionate, and see potential in others and the world.",
+    "strengths": [
+      "Deep values and commitment to what they believe in",
+      "Exceptional understanding of others' emotions and motivations",
+      "Creative problem-solving with unique, innovative approaches",
+      "Genuine interest in others' personal growth and development",
+      "Ability to see beauty and potential in people and situations",
+      "Passionate advocacy for causes they believe in",
+      "Authentic and genuine in relationships"
+    ],
+    "weaknesses": [
+      "Tendency to be overly idealistic and disappointed by reality",
+      "Can take criticism very personally",
+      "Struggle with practical, mundane tasks",
+      "May become emotionally overwhelmed or melancholic",
+      "Difficulty making decisions based on logic vs. feelings",
+      "Can be indecisive and procrastinate on important matters",
+      "Tendency to withdraw or become isolated when hurt"
+    ],
+    "careers": [
+      "Counselor or therapist",
+      "Writer or poet",
+      "Teacher or educator",
+      "Non-profit leader or activist",
+      "Artist or musician",
+      "Veterinarian or animal behaviorist",
+      "Human resources specialist",
+      "Clergy or spiritual leader"
+    ],
+    "relationshipsTips": [
+      "Your idealism about love is beautiful - hold onto it without losing sight of reality",
+      "Communicate your expectations clearly rather than hoping others will just know",
+      "Remember that your partner is human, not a reflection of your ideals",
+      "Share your creative self - it's what makes you unique",
+      "Create meaningful rituals and deep conversations regularly"
+    ],
+    "growthAreas": [
+      "Accept that real people and real life will never match your ideals - and that's okay",
+      "Develop practical skills and don't shy away from 'boring' necessities",
+      "Learn to take criticism as feedback, not personal rejection",
+      "Balance emotional processing with taking action",
+      "Challenge yourself to complete projects, even when interest wanes",
+      "Remember that logical thinking has value, not just feeling",
+      "Build resilience and learn to process disappointment constructively"
+    ]
+  },
+
+  "INTP": {
+    "nickname": "The Logician",
+    "description": "INTPs are innovative, abstract thinkers who love exploring ideas and theories. Known as 'The Logician,' they are curious, independent, and driven by the pursuit of knowledge. They excel at complex analysis and creative problem-solving.",
+    "strengths": [
+      "Exceptional ability to understand complex systems and theories",
+      "Strong logical reasoning and analytical skills",
+      "Genuine curiosity and love of learning",
+      "Creative and innovative problem-solving approaches",
+      "Independence and self-sufficiency",
+      "Ability to see underlying principles in many domains",
+      "Objective and unbiased in decision-making"
+    ],
+    "weaknesses": [
+      "Can be insensitive or oblivious to others' emotions",
+      "Difficulty with practical implementation and follow-through",
+      "May become lost in abstract thinking and neglect real-world needs",
+      "Struggle with social conventions and small talk",
+      "Can be condescending about those who don't think like them",
+      "Tendency to prioritize ideas over relationships",
+      "May seem cold or detached in emotional situations"
+    ],
+    "careers": [
+      "Software engineer or architect",
+      "Research scientist or analyst",
+      "Mathematician or physicist",
+      "Philosopher or academic",
+      "Systems architect",
+      "Database designer",
+      "Technical writer",
+      "Chess grandmaster or game designer"
+    ],
+    "relationshipsTips": [
+      "Your analytical mind is valuable - learn to apply it to emotions too",
+      "Make conscious effort to engage in emotional intimacy and vulnerability",
+      "Remember that people need words of affection, not just logical support",
+      "Schedule time together just like you schedule other important things",
+      "Try to understand that feelings are not irrational - they're just different data"
+    ],
+    "growthAreas": [
+      "Develop emotional intelligence and learn to recognize others' emotional needs",
+      "Practice finishing projects, especially practical ones",
+      "Challenge yourself to have more social interactions and small talk",
+      "Remember that implementation and execution matter as much as theory",
+      "Learn to value different thinking styles and ways of knowing",
+      "Develop patience with those who process information differently",
+      "Remember that mastery is being part of life, not just thinking about it"
+    ]
+  },
+
+  "ESTP": {
+    "nickname": "The Entrepreneur",
+    "description": "ESTPs are energetic, action-oriented individuals who thrive on excitement and challenge. Known as 'The Entrepreneur,' they are smart tactical operators who excel in crisis situations. They bring dynamism and quick thinking to any endeavor.",
+    "strengths": [
+      "Exceptional ability to think on their feet and adapt quickly",
+      "Natural charisma and ability to energize those around them",
+      "Excellent at reading situations and people",
+      "Fearless approach to new challenges and experiences",
+      "Strong practical problem-solving skills",
+      "Ability to see immediate opportunities others miss",
+      "Comfortable with risk-taking and fast-paced environments"
+    ],
+    "weaknesses": [
+      "Can be impulsive and rash in decision-making",
+      "Difficulty with long-term planning and commitment",
+      "Easily bored with routine or sedentary tasks",
+      "May be insensitive or tactless in communication",
+      "Struggle to consider others' feelings in pursuit of excitement",
+      "Can be risk-takers to the point of recklessness",
+      "Difficulty focusing on one thing for extended periods"
+    ],
+    "careers": [
+      "Entrepreneur or business owner",
+      "Sales manager or sales representative",
+      "Emergency room doctor or paramedic",
+      "Police officer or detective",
+      "Pilot or air traffic controller",
+      "Negotiator or mediator",
+      "Sports coach or athlete",
+      "Military officer"
+    ],
+    "relationshipsTips": [
+      "Your energy and spontaneity are wonderful - channel them into quality time with your partner",
+      "Make commitments and actually keep them, even when exciting alternatives appear",
+      "Learn to read your partner's need for stability and predictability",
+      "Communicate before acting, especially regarding major decisions",
+      "Remember that loyalty matters more than constant excitement"
+    ],
+    "growthAreas": [
+      "Develop patience and ability to focus on long-term goals",
+      "Learn to consider consequences before acting",
+      "Develop deeper emotional connections rather than surface relationships",
+      "Practice diplomatic communication - you can be direct without being harsh",
+      "Challenge yourself to complete boring but important tasks",
+      "Remember that planning and follow-through matter for success",
+      "Learn to value stability and depth in relationships"
+    ]
+  },
+
+  "ESFP": {
+    "nickname": "The Entertainer",
+    "description": "ESFPs are outgoing, spontaneous individuals who bring joy and excitement wherever they go. Known as 'The Entertainer,' they are enthusiastic, generous, and genuinely interested in people. They live in the moment and make others feel valued.",
+    "strengths": [
+      "Genuine warmth and ability to make others feel valued",
+      "Exceptional social skills and ability to build connections",
+      "Natural entertainment and communication abilities",
+      "Enthusiastic and optimistic approach to life",
+      "Flexible and adaptable to changing circumstances",
+      "Strong people skills and ability to read social situations",
+      "Living fully in the present moment"
+    ],
+    "weaknesses": [
+      "Can be scattered and lack follow-through on commitments",
+      "Difficulty focusing on long-term goals or boring tasks",
+      "May be superficial in relationships, skipping emotional depth",
+      "Sensitive to criticism and rejection",
+      "Impulsive spending and poor financial management",
+      "Can be overly focused on others' opinions",
+      "Avoidance of serious conversations or problems"
+    ],
+    "careers": [
+      "Event planner or organizer",
+      "Sales representative or manager",
+      "Entertainment or performing arts",
+      "Hospitality manager or chef",
+      "Marketing specialist",
+      "Recreation therapist",
+      "Tour guide or travel coordinator",
+      "Fashion consultant or stylist"
+    ],
+    "relationshipsTips": [
+      "Your spontaneity and warmth are gifts - find partners who appreciate them",
+      "Go deeper emotionally - your partner wants more than surface connection",
+      "Make plans and keep them, even when something more exciting comes up",
+      "Listen without planning to respond - really hear your partner",
+      "Create meaningful traditions together to deepen your bond"
+    ],
+    "growthAreas": [
+      "Develop ability to focus and follow through on important goals",
+      "Learn to have deeper emotional conversations and vulnerability",
+      "Challenge yourself to plan ahead and consider consequences",
+      "Remember that not everything is about fun and entertainment",
+      "Build financial literacy and responsible money management",
+      "Practice staying present with difficult emotions, not just fun ones",
+      "Develop deeper, more authentic relationships over many shallow ones"
+    ]
+  },
+
+  "ENFP": {
+    "nickname": "The Campaigner",
+    "description": "ENFPs are enthusiastic, creative individuals who see life as full of possibilities. Known as 'The Campaigner,' they are passionate advocates for their ideas and causes. They bring energy, optimism, and genuine interest in others to every interaction.",
+    "strengths": [
+      "Exceptional ability to inspire and motivate others",
+      "Creative thinker who sees possibilities everywhere",
+      "Genuine enthusiasm and positive outlook",
+      "Strong people skills and ability to build genuine connections",
+      "Passionate about their interests and causes",
+      "Flexible and adaptable to new information and situations",
+      "Natural networking and relationship-building abilities"
+    ],
+    "weaknesses": [
+      "Can be scattered and lack focus or follow-through",
+      "Difficulty with mundane, routine tasks",
+      "May jump from project to project without completion",
+      "Can be overly optimistic and unprepared for setbacks",
+      "Tendency to overschedule and overcommit",
+      "May neglect practical details and logistics",
+      "Struggle with authority and structured environments"
+    ],
+    "careers": [
+      "Entrepreneur or small business owner",
+      "Teacher or educator",
+      "Counselor or coach",
+      "Marketer or brand ambassador",
+      "Event organizer or coordinator",
+      "Journalist or reporter",
+      "Non-profit leader or activist",
+      "Creative director or designer"
+    ],
+    "relationshipsTips": [
+      "Your enthusiasm is contagious - share it with your partner",
+      "Make time for your partner even when exciting opportunities appear",
+      "Go deeper - your partner wants to know the real you, not just the fun version",
+      "Follow through on commitments you make",
+      "Create meaningful rituals and tradition-building moments together"
+    ],
+    "growthAreas": [
+      "Develop ability to focus on one project or goal at a time",
+      "Learn to follow through, even when novelty wears off",
+      "Challenge unrealistic optimism with preparation and planning",
+      "Remember that not every opportunity deserves your attention",
+      "Build deeper, more committed relationships over many surface ones",
+      "Develop ability to work within structure and authority",
+      "Practice delayed gratification and long-term thinking"
+    ]
+  },
+
+  "ENTP": {
+    "nickname": "The Debater",
+    "description": "ENTPs are clever, inventive individuals who enjoy intellectual sparring and exploring new ideas. Known as 'The Debater,' they are natural problem-solvers who see multiple perspectives. They are witty, engaging, and love a good challenge.",
+    "strengths": [
+      "Exceptional ability to see multiple perspectives on issues",
+      "Quick-witted and clever in conversation",
+      "Creative problem-solving and innovation",
+      "Strong debating and arguing skills",
+      "Intellectually curious and broad knowledge base",
+      "Able to think on their feet and adapt quickly",
+      "Natural ability to see flaws in plans or arguments"
+    ],
+    "weaknesses": [
+      "Can be argumentative and debate just for the sake of debate",
+      "May seem insensitive when pointing out others' flaws",
+      "Difficulty with commitment and follow-through",
+      "Restless and easily bored with routine",
+      "Can be overly critical and sarcastic",
+      "May neglect others' feelings in pursuit of truth",
+      "Struggle with emotional intimacy and vulnerability"
+    ],
+    "careers": [
+      "Lawyer or judge",
+      "Management consultant",
+      "Software engineer or inventor",
+      "Journalist or broadcaster",
+      "Entrepreneur or business owner",
+      "Scientist or researcher",
+      "Professor or academic",
+      "Negotiator or mediator"
+    ],
+    "relationshipsTips": [
+      "Remember that not everything is a debate - sometimes just listen",
+      "Be aware that your bluntness can hurt without giving useful feedback",
+      "Show affection through genuine interest in your partner's growth",
+      "Make commitments and follow through - consistency matters",
+      "Remember that emotional intimacy is as valuable as intellectual connection"
+    ],
+    "growthAreas": [
+      "Learn when to stop debating and start supporting",
+      "Develop emotional intelligence and empathy for different perspectives",
+      "Practice commitment and follow-through on goals and relationships",
+      "Remember that being right isn't always the goal",
+      "Challenge your tendency to be critical and sarcastic",
+      "Learn to appreciate emotions as valid data, not just illogical reactions",
+      "Remember that some of the best solutions come from intuition, not just logic"
+    ]
+  },
+
+  "ESTJ": {
+    "nickname": "The Executive",
+    "description": "ESTJs are organized, direct individuals who are natural leaders and decision-makers. Known as 'The Executive,' they are logical, efficient, and committed to maintaining order and achieving results. They value tradition and loyalty.",
+    "strengths": [
+      "Natural leadership ability and decisiveness",
+      "Exceptional organizational and project management skills",
+      "Logical thinker who focuses on practical results",
+      "Strong sense of responsibility and duty",
+      "Efficient and productive in accomplishing goals",
+      "Clear communicator with ability to delegate",
+      "Loyal and committed to people and causes they believe in"
+    ],
+    "weaknesses": [
+      "Can be overly rigid and resistance to change",
+      "May seem cold or insensitive to emotions",
+      "Difficulty understanding or valuing others' emotional needs",
+      "Can be overly critical and controlling",
+      "Struggle with spontaneity and flexibility",
+      "May be judgmental of those who don't share their values",
+      "Tendency to prioritize work over personal relationships"
+    ],
+    "careers": [
+      "CEO or executive leader",
+      "Military officer or administrator",
+      "Judge or lawyer",
+      "Production manager or operations director",
+      "Database administrator",
+      "Police officer or detective",
+      "Accountant or financial manager",
+      "Project manager"
+    ],
+    "relationshipsTips": [
+      "Express your commitment verbally, not just through action",
+      "Make intentional time for your partner, even when busy",
+      "Learn to value your partner's emotional needs alongside practical goals",
+      "Be flexible occasionally - your partner may want spontaneity",
+      "Remember that your way isn't the only right way"
+    ],
+    "growthAreas": [
+      "Develop emotional intelligence and understanding of others' feelings",
+      "Learn to embrace change as opportunity, not threat",
+      "Challenge your need for control - trust others to lead",
+      "Practice flexibility and adapt your approach to different people",
+      "Remember that achieving goals means nothing if you lose important relationships",
+      "Learn to see value in different approaches and perspectives",
+      "Balance efficiency with presence and quality time"
+    ]
+  },
+
+  "ESFJ": {
+    "nickname": "The Consul",
+    "description": "ESFJs are warm, responsible individuals who are genuinely interested in helping others. Known as 'The Consul,' they are loyal friends, devoted partners, and conscientious team members. They value harmony and take their social responsibilities seriously.",
+    "strengths": [
+      "Warm, genuine care for others' wellbeing",
+      "Exceptional ability to remember details about people",
+      "Excellent communication and social skills",
+      "Strong sense of responsibility and duty",
+      "Natural ability to organize and coordinate group activities",
+      "Loyal and devoted in relationships",
+      "Genuine interest in others' lives and problems"
+    ],
+    "weaknesses": [
+      "Can be overly people-pleasing and approval-seeking",
+      "Tendency to gossip or share others' private information",
+      "Difficulty handling criticism or rejection",
+      "May become overly invested in others' problems",
+      "Can be judgmental of those who don't share their values",
+      "Struggle with saying 'no' and setting boundaries",
+      "May neglect own needs while helping others"
+    ],
+    "careers": [
+      "Teacher or educator",
+      "Healthcare provider or nurse",
+      "Social worker or counselor",
+      "Event organizer or coordinator",
+      "Human resources specialist",
+      "Sales representative or manager",
+      "Administrative professional",
+      "Real estate agent"
+    ],
+    "relationshipsTips": [
+      "Your warmth is beautiful - make sure you save some care for yourself",
+      "Communicate your needs directly - don't expect your partner to read your mind",
+      "Build independence and self-worth not based on others' approval",
+      "Allow your partner space to make their own choices",
+      "Create meaningful, deeper conversations beyond surface updates"
+    ],
+    "growthAreas": [
+      "Learn to prioritize your own needs equally with others'",
+      "Develop independence and confidence in your own judgment",
+      "Practice keeping others' confidences and respecting privacy",
+      "Build thicker skin - not all criticism is rejection",
+      "Challenge your need for approval from others",
+      "Remember that helping others has healthy limits",
+      "Learn to enjoy activities and relationships that don't involve helping or fixing"
+    ]
+  },
+
+  "ENFJ": {
+    "nickname": "The Commander",
+    "description": "ENFJs are natural leaders with exceptional people skills and strong convictions. Known as 'The Commander,' they are charismatic, empathetic, and committed to helping others reach their potential. They are passionate advocates who inspire loyalty.",
+    "strengths": [
+      "Exceptional leadership and charisma",
+      "Genuine empathy and understanding of others' motivations",
+      "Strong ability to inspire and motivate others",
+      "Natural networking and relationship-building skills",
+      "Clear communication with ability to articulate vision",
+      "Organized and efficient at accomplishing goals",
+      "Committed to helping others grow and succeed"
+    ],
+    "weaknesses": [
+      "Can be overly directive and controlling",
+      "May struggle when people don't follow their guidance",
+      "Tendency to be overly focused on group harmony",
+      "Can be sensitive to criticism about their leadership",
+      "May neglect their own needs while helping others",
+      "Can be manipulative in pursuit of their goals, even unconsciously",
+      "Difficulty accepting that they might be wrong"
+    ],
+    "careers": [
+      "Executive leader or CEO",
+      "Teacher or professor",
+      "Counselor or life coach",
+      "Non-profit leader or activist",
+      "Marketing manager or brand director",
+      "Sales manager or team leader",
+      "Religious leader or chaplain",
+      "Organizational development specialist"
+    ],
+    "relationshipsTips": [
+      "Remember your partner is not a project to fix or improve",
+      "Ask for your partner's input and genuinely consider it",
+      "Allow your partner to make their own choices, even if you disagree",
+      "Share vulnerability, not just strength and vision",
+      "Create space for your partner's ideas and contributions"
+    ],
+    "growthAreas": [
+      "Learn to let go of control and trust others to lead",
+      "Develop acceptance that not everyone wants your guidance",
+      "Practice humility - you don't have all the answers",
+      "Remember that influencing others must be balanced with respect for autonomy",
+      "Challenge your tendency to make decisions for others 'for their own good'",
+      "Learn to focus on personal relationships, not just group dynamics",
+      "Remember that your success isn't measured by others' achievements"
+    ]
+  },
+
+  "ENTJ": {
+    "nickname": "The Visionary",
+    "description": "ENTJs are natural strategists and powerful leaders with clear vision for the future. Known as 'The Visionary,' they are decisive, direct, and driven to accomplish their goals. They are natural commanders who excel at organizing people and resources.",
+    "strengths": [
+      "Exceptional strategic thinking and vision for the future",
+      "Natural leadership ability and decisiveness",
+      "Efficient and results-oriented in accomplishing goals",
+      "Confident and commanding presence",
+      "Excellent organizational and project management skills",
+      "Ability to inspire others to pursue ambitious goals",
+      "Clear sense of personal vision and values"
+    ],
+    "weaknesses": [
+      "Can be overly blunt and insensitive in communication",
+      "Tendency to be domineering and controlling",
+      "May be dismissive of others' ideas or input",
+      "Difficulty understanding or valuing emotional needs",
+      "Can be cold or critical when stressed",
+      "May sacrifice relationships in pursuit of goals",
+      "Struggle with accepting that they might be wrong"
+    ],
+    "careers": [
+      "CEO or executive leader",
+      "Strategic consultant or planner",
+      "Military officer or commander",
+      "Lawyer or judge",
+      "Entrepreneur or business owner",
+      "Project manager or operations director",
+      "Management consultant",
+      "University president or administrator"
+    ],
+    "relationshipsTips": [
+      "Remember your partner is a partner, not a subordinate",
+      "Ask for input and genuinely listen - their perspective matters",
+      "Express appreciation specifically and regularly",
+      "Make dedicated time for your partner that isn't about achievement",
+      "Learn to value emotional intimacy, not just intellectual connection"
+    ],
+    "growthAreas": [
+      "Develop emotional intelligence and empathy",
+      "Learn that influencing others requires respect, not just authority",
+      "Practice listening to others' ideas without judgment",
+      "Remember that different approaches can be equally valid",
+      "Challenge your tendency to make unilateral decisions",
+      "Learn to value relationships and personal connections equally with achievement",
+      "Remember that the most important legacies are often relational, not just professional"
+    ]
+  }
+}

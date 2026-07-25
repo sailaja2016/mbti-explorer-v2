@@ -1,0 +1,452 @@
+{
+  "type1": {
+    "number": "Type 1",
+    "name": "The Reformer",
+    "nickname": "The Perfectionist",
+    "description": "Type 1s are principled, purposeful, self-controlled, and perfectionistic. They strive to be right, to live correctly, and to improve the world. They are conscientious and have strong values, but can become critical and demanding of themselves and others.",
+    "strengths": [
+      "Strong sense of purpose and ethics",
+      "Conscientious and responsible",
+      "Excellent at improving systems and processes",
+      "Principled and fair in decision-making",
+      "Dedicated to quality and excellence",
+      "Self-disciplined and organized",
+      "Advocates for positive change"
+    ],
+    "weaknesses": [
+      "Tendency to be overly critical and judgmental",
+      "Can be rigid and perfectionistic",
+      "Difficulty accepting mistakes in themselves and others",
+      "May suppress emotions in pursuit of being 'right'",
+      "Can experience significant inner tension and frustration",
+      "May seem cold or overly serious to others",
+      "Struggle with self-compassion and flexibility"
+    ],
+    "careers": [
+      "Judge or lawyer",
+      "Accountant or auditor",
+      "Quality control manager",
+      "Teacher or professor",
+      "Therapist or counselor",
+      "Environmental activist",
+      "Reform advocate",
+      "Compliance officer"
+    ],
+    "relationshipTips": [
+      "Remember that perfection is impossible - practice accepting 'good enough'",
+      "Express your values clearly but without judgment of others",
+      "Balance your idealism with compassion for human fallibility",
+      "Show appreciation for your partner's efforts, not just results",
+      "Learn to relax and enjoy life without needing improvement"
+    ],
+    "growthAreas": [
+      "Develop self-compassion and accept your own imperfections",
+      "Practice seeing the good in situations, not just flaws",
+      "Learn to let go of the need to control or improve everything",
+      "Recognize that different approaches can be equally valid",
+      "Balance critique with appreciation and encouragement",
+      "Allow yourself to experience emotions without judging them",
+      "Remember that being human means being imperfect"
+    ]
+  },
+  "type2": {
+    "number": "Type 2",
+    "name": "The Helper",
+    "nickname": "The Giver",
+    "description": "Type 2s are empathetic, sincere, warm-hearted, and relationship-focused. They are generous givers who find meaning in helping others. However, they can become overly focused on others' needs at the expense of their own, and may struggle with resentment when help isn't reciprocated.",
+    "strengths": [
+      "Genuinely caring and empathetic toward others",
+      "Excellent at building meaningful relationships",
+      "Generous and willing to help without expecting reward",
+      "Strong emotional intelligence and intuition",
+      "Natural ability to understand others' needs",
+      "Warm and welcoming to those around them",
+      "Dedicated and loyal in relationships"
+    ],
+    "weaknesses": [
+      "Tendency to neglect their own needs while helping others",
+      "Can become overly focused on others' approval",
+      "Struggle with setting boundaries",
+      "May feel resentment when help isn't reciprocated",
+      "Can be manipulative in subtle ways",
+      "Difficulty asking for help or expressing needs",
+      "May lose sense of self in relationships"
+    ],
+    "careers": [
+      "Counselor or therapist",
+      "Nurse or healthcare provider",
+      "Teacher or educator",
+      "Social worker",
+      "Human resources specialist",
+      "Event coordinator or hospitality",
+      "Customer service manager",
+      "Non-profit leader"
+    ],
+    "relationshipTips": [
+      "Your generosity is beautiful - make sure to receive care too",
+      "Communicate your needs directly rather than expecting others to guess",
+      "Practice saying 'no' without guilt or resentment",
+      "Remember that taking care of yourself helps you help others better",
+      "Don't keep score of favors - help because you want to, not for payback"
+    ],
+    "growthAreas": [
+      "Learn to prioritize your own wellbeing equally with others'",
+      "Develop healthy boundaries in relationships",
+      "Practice expressing your needs clearly and directly",
+      "Challenge the belief that love equals self-sacrifice",
+      "Recognize that you are worthy of care and attention too",
+      "Build independence and a strong sense of self",
+      "Learn that others must take responsibility for themselves"
+    ]
+  },
+  "type3": {
+    "number": "Type 3",
+    "name": "The Achiever",
+    "nickname": "The Performer",
+    "description": "Type 3s are success-oriented, adaptive, and excellent at accomplishing goals. They are driven by the desire to be valuable and to gain recognition. However, they can become overly focused on image and external validation, losing touch with their authentic selves.",
+    "strengths": [
+      "Highly motivated and goal-oriented",
+      "Excellent problem-solvers and action-takers",
+      "Adaptive and able to adjust approach based on feedback",
+      "Natural leaders who inspire others through example",
+      "Efficient and productive in accomplishing tasks",
+      "Charming and socially adept",
+      "Resilient and competitive in healthy ways"
+    ],
+    "weaknesses": [
+      "Can be overly focused on image and external success",
+      "May neglect personal relationships in pursuit of goals",
+      "Difficulty being authentic or vulnerable",
+      "Can be workaholic and driven by external validation",
+      "May struggle with knowing who they are beyond achievements",
+      "Can be competitive in unhealthy or cutthroat ways",
+      "Difficulty tolerating failure or setbacks"
+    ],
+    "careers": [
+      "CEO or executive leader",
+      "Entrepreneur or business owner",
+      "Sales manager or motivational speaker",
+      "Politician or public figure",
+      "Athlete or coach",
+      "Marketing executive",
+      "Project manager",
+      "Performance artist"
+    ],
+    "relationshipTips": [
+      "Make dedicated time for relationships, not just when convenient",
+      "Be authentic with your partner - show your real self, not your image",
+      "Remember that your worth isn't tied to achievements",
+      "Share your vulnerabilities and fears, not just successes",
+      "Listen to your partner without planning your response"
+    ],
+    "growthAreas": [
+      "Develop a sense of self based on internal values, not external success",
+      "Learn to be vulnerable and authentic in relationships",
+      "Practice measuring success by personal growth, not just achievement",
+      "Challenge the belief that you must earn love through accomplishments",
+      "Develop compassion for yourself when you fail or underperform",
+      "Learn to slow down and enjoy the present moment",
+      "Remember that being human is enough - you don't need to earn your value"
+    ]
+  },
+  "type4": {
+    "number": "Type 4",
+    "name": "The Individualist",
+    "nickname": "The Romantic",
+    "description": "Type 4s are self-aware, sensitive, and emotionally expressive. They crave authenticity and deep meaning. They are creative and introspective, but can become self-absorbed, moody, and overly focused on what's missing in their lives.",
+    "strengths": [
+      "Highly creative and artistic abilities",
+      "Deep emotional awareness and authenticity",
+      "Strong sense of individuality and uniqueness",
+      "Excellent at understanding complex emotions",
+      "Natural ability to empathize with others' pain",
+      "Passionate about meaningful self-expression",
+      "Able to find beauty in sadness and struggle"
+    ],
+    "weaknesses": [
+      "Tendency toward melancholy and focusing on what's missing",
+      "Can be overly self-absorbed and self-conscious",
+      "Difficulty tolerating ordinary, everyday life",
+      "May withdraw when hurt instead of communicating",
+      "Can be dramatic or overly emotional",
+      "Struggle with shame and feeling fundamentally flawed",
+      "May idealize relationships unrealistically"
+    ],
+    "careers": [
+      "Artist or musician",
+      "Writer or poet",
+      "Therapist or counselor",
+      "Designer or creative director",
+      "Actor or performer",
+      "Spiritual director",
+      "Researcher or scholar",
+      "Psychologist"
+    ],
+    "relationshipTips": [
+      "Your depth and authenticity are gifts - share them",
+      "Remember that your partner can't fix the emptiness - only you can",
+      "Express feelings directly rather than through withdrawal",
+      "Appreciate the ordinary moments, not just the intense ones",
+      "Don't idealize your partner - see and love them as they are"
+    ],
+    "growthAreas": [
+      "Learn to find meaning in ordinary experiences, not just intense ones",
+      "Develop appreciation for what you have instead of what's missing",
+      "Practice self-acceptance and stop comparing yourself to others",
+      "Engage with the world despite feeling different or misunderstood",
+      "Balance introspection with action and connection",
+      "Challenge the belief that suffering equals depth",
+      "Remember that you are fundamentally okay just as you are"
+    ]
+  },
+  "type5": {
+    "number": "Type 5",
+    "name": "The Investigator",
+    "nickname": "The Observer",
+    "description": "Type 5s are perceptive, innovative, and focused on understanding the world. They are curious and analytical, thriving on knowledge and competence. However, they can become detached, isolated, and overly cerebral, disconnecting from their emotions and relationships.",
+    "strengths": [
+      "Highly intelligent and curious about how things work",
+      "Excellent researchers and innovators",
+      "Able to see connections and patterns others miss",
+      "Independent and self-sufficient thinkers",
+      "Deep knowledge and expertise in areas of interest",
+      "Objective and analytical in problem-solving",
+      "Thoughtful and careful in decision-making"
+    ],
+    "weaknesses": [
+      "Tendency to withdraw and isolate from others",
+      "Can be detached and emotionally unavailable",
+      "May become obsessed with information gathering",
+      "Difficulty with practical implementation",
+      "Can seem cold or disinterested in others",
+      "Struggle with social connection and small talk",
+      "May feel overwhelmed in social situations"
+    ],
+    "careers": [
+      "Researcher or scientist",
+      "Software engineer or programmer",
+      "Philosopher or academic",
+      "Systems analyst",
+      "Librarian or archivist",
+      "Technical writer",
+      "Inventor or innovator",
+      "Analyst or consultant"
+    ],
+    "relationshipTips": [
+      "Make effort to engage emotionally, not just intellectually",
+      "Share your thoughts and feelings regularly",
+      "Spend time with others even when you prefer solitude",
+      "Remember that relationships require presence and attention",
+      "Practice small talk and social connection"
+    ],
+    "growthAreas": [
+      "Develop emotional awareness and expression",
+      "Challenge the belief that emotions are irrational",
+      "Learn to balance thinking with feeling and doing",
+      "Practice being present with others without needing to understand everything",
+      "Engage with people and the world despite uncertainty",
+      "Remember that you can be competent and still need others",
+      "Develop comfort with not knowing everything"
+    ]
+  },
+  "type6": {
+    "number": "Type 6",
+    "name": "The Loyalist",
+    "nickname": "The Skeptic",
+    "description": "Type 6s are reliable, committed, and security-oriented. They are conscientious and questioning, wanting to understand systems and predict problems. However, they can become anxious, suspicious, and overly focused on worst-case scenarios.",
+    "strengths": [
+      "Loyal and devoted in relationships and commitments",
+      "Excellent at anticipating problems and planning for contingencies",
+      "Reliable and dependable for others",
+      "Thoughtful about potential risks and consequences",
+      "Good at building support systems and teams",
+      "Trustworthy and honest in their dealings",
+      "Effective troubleshooters and problem-solvers"
+    ],
+    "weaknesses": [
+      "Tendency toward anxiety and catastrophizing",
+      "Can be suspicious or paranoid in relationships",
+      "Difficulty trusting themselves or others",
+      "May overthink decisions and freeze",
+      "Can be rigid in their thinking and beliefs",
+      "Struggle with self-doubt and imposter syndrome",
+      "May test loyalty of others repeatedly"
+    ],
+    "careers": [
+      "Accountant or auditor",
+      "Project manager",
+      "Risk analyst",
+      "Security professional",
+      "Military or law enforcement",
+      "Quality assurance specialist",
+      "Administrator or coordinator",
+      "Mediator or arbitrator"
+    ],
+    "relationshipTips": [
+      "Trust in people's good intentions until proven otherwise",
+      "Communicate your fears directly instead of testing loyalty",
+      "Remember that not everything is a threat",
+      "Build a secure base but don't cling too tightly",
+      "Practice self-trust - you are more capable than you believe"
+    ],
+    "growthAreas": [
+      "Learn to trust yourself and your instincts",
+      "Challenge catastrophic thinking with evidence",
+      "Develop faith that most people are trustworthy",
+      "Practice taking risks despite uncertainty",
+      "Remember that you can handle difficult situations",
+      "Balance caution with openness and flexibility",
+      "Learn that security comes from within, not external guarantees"
+    ]
+  },
+  "type7": {
+    "number": "Type 7",
+    "name": "The Enthusiast",
+    "nickname": "The Epicure",
+    "description": "Type 7s are enthusiastic, optimistic, and fun-loving. They are spontaneous and versatile, seeking new experiences and avoiding pain. However, they can become scattered, impulsive, and unable to sit with difficult emotions or see tasks through to completion.",
+    "strengths": [
+      "Enthusiastic and optimistic about life",
+      "Excellent at seeing multiple options and possibilities",
+      "Spontaneous and fun-loving",
+      "Great at generating new ideas and inspiration",
+      "Quick thinkers and adaptable problem-solvers",
+      "Natural ability to make others laugh and feel energized",
+      "Versatile and able to do many things well"
+    ],
+    "weaknesses": [
+      "Can be scattered and lack follow-through",
+      "Tendency to avoid painful emotions or difficult conversations",
+      "May be impulsive and act without considering consequences",
+      "Difficulty with commitment and staying focused",
+      "Can be superficial in relationships",
+      "May overschedule and spread themselves too thin",
+      "Struggle with accepting limitations or saying no"
+    ],
+    "careers": [
+      "Entrepreneur or startup founder",
+      "Event planner or promoter",
+      "Sales representative or marketer",
+      "Tour guide or travel coordinator",
+      "Entertainer or performer",
+      "Public relations specialist",
+      "Adventure guide or experience designer",
+      "Comedian or humor writer"
+    ],
+    "relationshipTips": [
+      "Make commitments and follow through",
+      "Be present with difficult emotions, not just fun times",
+      "Give quality time without distractions",
+      "Listen deeply without planning your response",
+      "Remember that deep relationships require consistency"
+    ],
+    "growthAreas": [
+      "Learn to sit with difficult emotions without escaping",
+      "Develop follow-through and finish what you start",
+      "Challenge the belief that pain must be avoided",
+      "Practice depth over breadth in relationships and interests",
+      "Learn to find joy in routine and the mundane",
+      "Balance adventure with responsibility",
+      "Remember that meaningful life includes struggle and sadness"
+    ]
+  },
+  "type8": {
+    "number": "Type 8",
+    "name": "The Challenger",
+    "nickname": "The Leader",
+    "description": "Type 8s are assertive, commanding, and strong-willed. They are natural leaders who value strength and independence. However, they can become aggressive, domineering, and insensitive to others' feelings in their pursuit of power and control.",
+    "strengths": [
+      "Natural leaders and decision-makers",
+      "Strong-willed and confident in their convictions",
+      "Excellent at taking charge and getting things done",
+      "Protective of those they care about",
+      "Direct and honest communication",
+      "Not intimidated by confrontation",
+      "Respect strength and competence in others"
+    ],
+    "weaknesses": [
+      "Can be aggressive and domineering",
+      "May be insensitive to others' feelings",
+      "Difficulty showing vulnerability",
+      "Can be overly controlling and need to win",
+      "May hurt others with their bluntness",
+      "Struggle with asking for help",
+      "Can be confrontational or combative"
+    ],
+    "careers": [
+      "CEO or executive leader",
+      "Entrepreneur or business owner",
+      "Military officer or commander",
+      "Lawyer or judge",
+      "Construction or project manager",
+      "Sales executive",
+      "Political leader",
+      "Crisis manager"
+    ],
+    "relationshipTips": [
+      "Remember that strength includes vulnerability",
+      "Soften your delivery when making important points",
+      "Ask for input from others - their ideas matter",
+      "Show appreciation for your partner's contributions",
+      "Let your partner lead sometimes"
+    ],
+    "growthAreas": [
+      "Learn to be vulnerable without losing your strength",
+      "Develop empathy for others' emotional needs",
+      "Practice listening without planning to respond",
+      "Challenge the belief that you must always be in control",
+      "Learn that admitting mistakes doesn't diminish you",
+      "Remember that the best leaders empower others",
+      "Balance assertion with consideration for others"
+    ]
+  },
+  "type9": {
+    "number": "Type 9",
+    "name": "The Peacemaker",
+    "nickname": "The Mediator",
+    "description": "Type 9s are easygoing, accommodating, and peace-loving. They are natural mediators who see all perspectives. However, they can become too passive, lose their sense of self in accommodating others, and avoid necessary conflict.",
+    "strengths": [
+      "Excellent mediators and peacemakers",
+      "Accepting and non-judgmental toward others",
+      "Calm and steady presence in chaos",
+      "Good listeners who truly hear others",
+      "Flexible and adaptable to different situations",
+      "Even-tempered and rarely angry",
+      "Supportive and encouraging to those around them"
+    ],
+    "weaknesses": [
+      "Can be too passive and conflict-avoidant",
+      "May lose their own opinions and identity",
+      "Difficulty asserting needs and boundaries",
+      "Tendency to go along with others to keep peace",
+      "May be unmotivated or lack direction",
+      "Can appear indifferent or lazy",
+      "Struggle with decision-making and prioritization"
+    ],
+    "careers": [
+      "Counselor or mediator",
+      "Human resources specialist",
+      "Teacher or educator",
+      "Healthcare provider",
+      "Social worker",
+      "Customer service representative",
+      "Diplomat or international relations",
+      "Yoga instructor or wellness coach"
+    ],
+    "relationshipTips": [
+      "Express your own needs and opinions, not just go along",
+      "Take stands even if it risks temporary conflict",
+      "Communicate directly about what you want",
+      "Remember that your perspective matters",
+      "Sometimes saying no is an act of love"
+    ],
+    "growthAreas": [
+      "Learn to assert your needs and opinions clearly",
+      "Develop a stronger sense of self and personal priorities",
+      "Challenge the belief that conflict is always bad",
+      "Practice standing up for yourself calmly",
+      "Remember that your voice and choices matter",
+      "Learn that healthy relationships include disagreement",
+      "Find your own direction and motivations independent of others"
+    ]
+  }
+}

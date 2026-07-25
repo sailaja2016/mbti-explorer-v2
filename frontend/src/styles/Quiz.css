@@ -1,0 +1,132 @@
+.quiz-container {
+  padding: 40px 20px;
+}
+
+.progress-bar {
+  width: 100%;
+  height: 8px;
+  background: #e5e7eb;
+  border-radius: 4px;
+  margin: 20px 0;
+  overflow: hidden;
+}
+
+.progress {
+  height: 100%;
+  background: linear-gradient(90deg, #667eea, #764ba2);
+  transition: width 0.3s ease;
+}
+
+.questions-list {
+  margin: 30px 0;
+}
+
+.question-item {
+  margin-bottom: 30px;
+  padding: 20px;
+  background: #f9fafb;
+  border-radius: 8px;
+}
+
+.question-text {
+  font-size: 1.1em;
+  font-weight: 500;
+  margin-bottom: 15px;
+  color: var(--dark);
+}
+
+.likert-scale {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.likert-label {
+  display: none;
+}
+
+.likert-options {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  gap: 30px;
+  width: 100%;
+}
+
+.likert-option {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+}
+
+.likert-option input {
+  display: none;
+}
+
+.radio-circle {
+  width: 32px;
+  height: 32px;
+  border: 2.5px solid var(--primary);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+  cursor: pointer;
+  background: white;
+}
+
+.likert-option input:checked + .radio-circle {
+  background: var(--primary);
+  box-shadow: 0 0 12px rgba(157, 78, 221, 0.6);
+  border-color: var(--secondary);
+  transform: scale(1.1);
+}
+
+.likert-option:hover .radio-circle {
+  border-color: var(--secondary);
+  transform: scale(1.05);
+}
+
+.likert-option-label {
+  font-size: 0.8em;
+  color: var(--text-muted);
+  text-align: center;
+  font-weight: 500;
+  white-space: pre-line;
+  min-width: 80px;
+  line-height: 1.2;
+}
+
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 30px;
+  gap: 20px;
+}
+
+.page-counter {
+  color: var(--text-muted);
+  font-weight: 600;
+  font-size: 1em;
+  min-width: 60px;
+  text-align: center;
+}
+
+.navigation .button {
+  flex: 0 0 auto;
+}
+
+.navigation button:first-child {
+  margin-left: 0;
+}
+
+.navigation button:last-child {
+  margin-right: 0;
+  margin-left: auto;
+}

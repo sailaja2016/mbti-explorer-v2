@@ -1,0 +1,325 @@
+{
+  "analytical": {
+    "type": "The Analyst",
+    "score": "Analytical & Detail-Oriented",
+    "description": "You have strong analytical and problem-solving skills with attention to detail. You excel at working with data, systems, and processes. You prefer structured environments and enjoy breaking down complex problems into manageable parts.",
+    "strengths": [
+      "Strong analytical and logical thinking",
+      "Excellent attention to detail",
+      "Good at data analysis and interpretation",
+      "Methodical approach to problem-solving",
+      "Ability to identify patterns and connections",
+      "Reliable in executing detailed work",
+      "Good at quality control and verification"
+    ],
+    "idealEnvironment": [
+      "Structured and organized workplace",
+      "Clear procedures and documentation",
+      "Data-driven decision making",
+      "Individual or small team work",
+      "Minimal ambiguity and clear expectations",
+      "Time for thorough analysis",
+      "Recognition for accuracy and precision"
+    ],
+    "careers": [
+      "Data Analyst",
+      "Financial Analyst",
+      "Quality Assurance Specialist",
+      "Systems Administrator",
+      "Database Administrator",
+      "Research Analyst",
+      "Accountant or Auditor",
+      "Software Tester",
+      "Compliance Officer",
+      "Technical Writer"
+    ],
+    "developmentAreas": [
+      "Learn to work with ambiguity and incomplete information",
+      "Develop comfort with fast-paced, changing environments",
+      "Practice delegating and trusting others' work",
+      "Work on seeing the bigger picture beyond details",
+      "Build flexibility in processes and approaches",
+      "Develop interpersonal skills for team collaboration",
+      "Challenge perfectionism and learn to be 'good enough'"
+    ],
+    "skillsToHighlight": [
+      "Data analysis and interpretation",
+      "Attention to detail",
+      "Problem-solving",
+      "Research skills",
+      "Process improvement",
+      "Quality assurance",
+      "Technical proficiency"
+    ]
+  },
+
+  "creative": {
+    "type": "The Creator",
+    "score": "Creative & Innovative",
+    "description": "You have strong creative and innovative abilities with a talent for seeing possibilities and generating new ideas. You thrive in environments that encourage imagination and original thinking. You enjoy bringing new concepts to life and pushing boundaries.",
+    "strengths": [
+      "Strong creative and imaginative thinking",
+      "Ability to generate innovative solutions",
+      "Sees possibilities others might miss",
+      "Adaptable and flexible in approach",
+      "Passionate about bringing ideas to life",
+      "Good at brainstorming and ideation",
+      "Comfortable with ambiguity and experimentation"
+    ],
+    "idealEnvironment": [
+      "Creative and collaborative workspace",
+      "Freedom to experiment and try new things",
+      "Support for innovative ideas",
+      "Visual and artistic opportunities",
+      "Flexible deadlines and processes",
+      "Recognition for originality",
+      "Projects that involve bringing concepts to life"
+    ],
+    "careers": [
+      "Graphic Designer",
+      "Product Designer",
+      "Creative Director",
+      "Content Creator",
+      "UX/UI Designer",
+      "Marketing Specialist",
+      "Brand Manager",
+      "Copywriter",
+      "Art Director",
+      "Innovation Consultant"
+    ],
+    "developmentAreas": [
+      "Develop project management and execution skills",
+      "Learn to complete projects, not just start them",
+      "Practice attention to practical details",
+      "Build persistence through challenges",
+      "Develop structured thinking alongside creative thinking",
+      "Learn to communicate ideas clearly",
+      "Work on meeting deadlines consistently"
+    ],
+    "skillsToHighlight": [
+      "Creative thinking and problem-solving",
+      "Innovation and ideation",
+      "Visual communication",
+      "Project conceptualization",
+      "Adaptability",
+      "Collaboration and teamwork",
+      "Communication of ideas"
+    ]
+  },
+
+  "interpersonal": {
+    "type": "The People Person",
+    "score": "Interpersonal & Communication",
+    "description": "You have excellent interpersonal skills and genuine interest in helping others. You excel at communication, building relationships, and understanding people's needs. You thrive in roles involving collaboration, leadership, or customer interaction.",
+    "strengths": [
+      "Strong communication and listening skills",
+      "Genuine interest in helping others",
+      "Excellent relationship building abilities",
+      "Natural empathy and emotional intelligence",
+      "Good at motivating and inspiring teams",
+      "Excellent at conflict resolution",
+      "Comfortable with public speaking and presentations"
+    ],
+    "idealEnvironment": [
+      "Collaborative and team-oriented culture",
+      "Opportunities for mentoring and coaching",
+      "People-focused work",
+      "Open communication and feedback",
+      "Community and connection",
+      "Recognition of interpersonal contributions",
+      "Work that helps others or makes a difference"
+    ],
+    "careers": [
+      "Human Resources Manager",
+      "Sales Manager or Representative",
+      "Teacher or Educator",
+      "Counselor or Coach",
+      "Team Leader or Manager",
+      "Customer Success Manager",
+      "Non-profit Leader",
+      "Social Worker",
+      "Event Coordinator",
+      "Communications Specialist"
+    ],
+    "developmentAreas": [
+      "Develop stronger analytical and technical skills",
+      "Learn to handle difficult data and reports",
+      "Practice individual work and focus",
+      "Build comfort with technical aspects of work",
+      "Develop decision-making based on logic, not just feeling",
+      "Learn to set boundaries and practice self-care",
+      "Work on managing your own emotions while supporting others"
+    ],
+    "skillsToHighlight": [
+      "Communication and presentation",
+      "Leadership and team building",
+      "Emotional intelligence",
+      "Conflict resolution",
+      "Mentoring and coaching",
+      "Relationship building",
+      "Interpersonal skills"
+    ]
+  },
+
+  "strategic": {
+    "type": "The Strategist",
+    "score": "Strategic & Leadership",
+    "description": "You have strong strategic thinking and leadership capabilities. You excel at seeing the big picture, setting direction, and making decisions that impact organizations. You're comfortable with responsibility and enjoy guiding others toward goals.",
+    "strengths": [
+      "Strategic thinking and vision",
+      "Strong decision-making abilities",
+      "Natural leadership presence",
+      "Good at goal setting and planning",
+      "Confident in taking on responsibility",
+      "Ability to inspire and motivate",
+      "Good at seeing long-term implications"
+    ],
+    "idealEnvironment": [
+      "Leadership opportunities and growth",
+      "Strategic planning and decision-making",
+      "Clear organizational hierarchy",
+      "Opportunity to influence direction",
+      "Recognition of leadership contributions",
+      "High-stakes, important work",
+      "Authority and autonomy in decisions"
+    ],
+    "careers": [
+      "Executive or C-suite leader",
+      "Strategic Manager",
+      "Business Development Manager",
+      "Project Director",
+      "Chief Operating Officer",
+      "Management Consultant",
+      "Business Analyst",
+      "Product Manager",
+      "Operations Director",
+      "Entrepreneur or Business Owner"
+    ],
+    "developmentAreas": [
+      "Develop detail-oriented execution skills",
+      "Learn to listen to others' perspectives",
+      "Practice empathy and emotional connection",
+      "Work on patience with slower processes",
+      "Develop technical depth in your field",
+      "Learn to support rather than just direct",
+      "Challenge the need to always be in control"
+    ],
+    "skillsToHighlight": [
+      "Strategic planning",
+      "Leadership and vision",
+      "Decision-making",
+      "Business acumen",
+      "Project management",
+      "Organizational skills",
+      "Change management"
+    ]
+  },
+
+  "technical": {
+    "type": "The Technician",
+    "score": "Technical & Process-Oriented",
+    "description": "You have strong technical skills and comfort with systems, tools, and processes. You excel at hands-on work, troubleshooting, and mastering complex tools. You prefer working with things and technologies rather than primarily with people.",
+    "strengths": [
+      "Strong technical skills and aptitude",
+      "Good at troubleshooting and problem-solving",
+      "Comfortable learning new tools and systems",
+      "Detail-oriented approach",
+      "Reliable and consistent in technical work",
+      "Independent worker",
+      "Good at documentation and procedures"
+    ],
+    "idealEnvironment": [
+      "Technical and hands-on work",
+      "Clear technical problems to solve",
+      "Tools and technology to master",
+      "Independent work or small teams",
+      "Recognition for technical expertise",
+      "Continuous learning opportunities",
+      "Minimal interpersonal complexity"
+    ],
+    "careers": [
+      "Software Developer or Engineer",
+      "Systems Administrator",
+      "Network Engineer",
+      "Database Administrator",
+      "IT Support Specialist",
+      "Technical Support Engineer",
+      "DevOps Engineer",
+      "Quality Assurance Engineer",
+      "System Architect",
+      "Infrastructure Specialist"
+    ],
+    "developmentAreas": [
+      "Develop communication and soft skills",
+      "Learn to mentor and teach others",
+      "Practice working in teams",
+      "Build business and strategic thinking",
+      "Develop comfort with ambiguity",
+      "Work on interpersonal relationship building",
+      "Learn to see human impact of technical work"
+    ],
+    "skillsToHighlight": [
+      "Technical expertise",
+      "Problem-solving",
+      "System design and architecture",
+      "Troubleshooting and debugging",
+      "Technical documentation",
+      "Learning new technologies",
+      "Quality and precision"
+    ]
+  },
+
+  "balanced": {
+    "type": "The Generalist",
+    "score": "Balanced & Versatile",
+    "description": "You have well-rounded skills across multiple areas. You're versatile and adaptable, comfortable in various roles and environments. You bring balance and can work effectively whether the focus is on people, data, creativity, or technical work.",
+    "strengths": [
+      "Versatile and adaptable abilities",
+      "Balanced skill set across domains",
+      "Good at switching between different types of work",
+      "Flexible and open to new challenges",
+      "Can understand multiple perspectives",
+      "Good at bringing together diverse teams",
+      "Comfortable in various environments"
+    ],
+    "idealEnvironment": [
+      "Varied and dynamic work",
+      "Opportunities to wear multiple hats",
+      "Environments that value versatility",
+      "Roles that combine different elements",
+      "Continuous learning and growth",
+      "Cross-functional collaboration",
+      "Freedom to develop in multiple directions"
+    ],
+    "careers": [
+      "Product Manager",
+      "Business Analyst",
+      "Project Manager",
+      "Consultant",
+      "Entrepreneur",
+      "Manager or Team Lead",
+      "Account Manager",
+      "Operations Manager",
+      "Strategy & Operations Coordinator",
+      "General Manager"
+    ],
+    "developmentAreas": [
+      "Consider deepening expertise in a preferred area",
+      "Find a niche or specialization that excites you",
+      "Develop mastery rather than just competence",
+      "Focus on building depth in one domain",
+      "Practice following through on specialized projects",
+      "Build clearer career direction and focus",
+      "Consider what truly energizes you most"
+    ],
+    "skillsToHighlight": [
+      "Versatility and adaptability",
+      "Cross-functional collaboration",
+      "General business acumen",
+      "Project management",
+      "Communication",
+      "Problem-solving across domains",
+      "Learning agility"
+    ]
+  }
+}

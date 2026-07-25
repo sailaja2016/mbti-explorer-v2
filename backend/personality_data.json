@@ -1,0 +1,129 @@
+{
+  "ISTJ": {
+    "description": "The Logistician - Practical, fact-oriented, reliable and dutiful. Logisticians are known for their dependability and strong sense of responsibility.",
+    "characteristics": ["Organized", "Loyal", "Practical", "Responsible", "Thorough"],
+    "strengths": ["Detail-oriented", "Reliable", "Strong work ethic", "Practical problem-solving", "Loyalty"],
+    "weaknesses": ["Inflexible", "Difficulty with emotions", "Workaholic tendencies", "Resistance to change"],
+    "tips": ["Learn to adapt to new situations", "Practice expressing emotions", "Set boundaries on work time", "Appreciate unconventional approaches"],
+    "image": "/images/istj.jpg"
+  },
+  "ISFJ": {
+    "description": "The Defender - Warm, conscientious, and loyal. Defenders are dedicated to serving others and take their responsibilities very seriously.",
+    "characteristics": ["Caring", "Practical", "Loyal", "Patient", "Humble"],
+    "strengths": ["Caring nature", "Loyalty", "Attention to detail", "Strong values", "Supportive"],
+    "weaknesses": ["Difficulty saying no", "Sensitive to criticism", "Underestimating themselves", "Guilt-prone"],
+    "tips": ["Set healthy boundaries", "Build confidence in your abilities", "Express your needs clearly", "Take time for self-care"],
+    "image": "/images/isfj.jpg"
+  },
+  "INFJ": {
+    "description": "The Advocate - Idealistic, insightful, and principled. Advocates are driven by a desire to help others and make the world a better place.",
+    "characteristics": ["Insightful", "Principled", "Driven", "Idealistic", "Compassionate"],
+    "strengths": ["Intuitive insight", "Strong principles", "Compassion", "Goal-oriented", "Understanding"],
+    "weaknesses": ["Perfectionism", "Idealism can lead to disappointment", "Difficulty with conflict", "Burnout risk"],
+    "tips": ["Accept imperfection", "Manage expectations realistically", "Develop conflict skills", "Practice self-compassion"],
+    "image": "/images/infj.jpg"
+  },
+  "INTJ": {
+    "description": "The Architect - Strategic, independent, and insightful. Architects are natural leaders with a vision for the future and the ability to plan its achievement.",
+    "characteristics": ["Strategic", "Independent", "Logical", "Ambitious", "Analytical"],
+    "strengths": ["Strategic thinking", "Independence", "Logical reasoning", "Long-term planning", "Ambition"],
+    "weaknesses": ["Arrogance", "Difficulty with emotions", "Social isolation", "Overly critical"],
+    "tips": ["Develop emotional intelligence", "Practice active listening", "Appreciate diverse perspectives", "Build warmer relationships"],
+    "image": "/images/intj.jpg"
+  },
+  "ISTP": {
+    "description": "The Virtuoso - Logical, practical, and adaptable. Virtuosos are natural mechanics and problem-solvers who enjoy understanding how things work.",
+    "characteristics": ["Practical", "Logical", "Independent", "Adaptable", "Direct"],
+    "strengths": ["Problem-solving", "Practical skills", "Independence", "Adaptability", "Logical"],
+    "weaknesses": ["Insensitivity", "Difficulty expressing emotions", "Risk-taking", "Attention issues"],
+    "tips": ["Develop emotional awareness", "Consider others' feelings", "Practice patience", "Build sustained focus"],
+    "image": "/images/istp.jpg"
+  },
+  "ISFP": {
+    "description": "The Adventurer - Flexible, charming, and creative. Adventurers are sensitive artists who live in the moment and enjoy exploring new experiences.",
+    "characteristics": ["Artistic", "Sensitive", "Flexible", "Spontaneous", "Loyal"],
+    "strengths": ["Creativity", "Sensitivity", "Flexibility", "Spontaneity", "Loyalty"],
+    "weaknesses": ["Difficulty with criticism", "Poor planning", "Inconsistency", "Conflict avoidance"],
+    "tips": ["Develop long-term planning skills", "Build confidence in your values", "Face conflict constructively", "Set realistic goals"],
+    "image": "/images/isfp.jpg"
+  },
+  "INFP": {
+    "description": "The Mediator - Idealistic, creative, and deeply principled. Mediators are driven by their values and have a gift for understanding the human experience.",
+    "characteristics": ["Idealistic", "Creative", "Loyal", "Sensitive", "Empathetic"],
+    "strengths": ["Empathy", "Creativity", "Loyalty", "Idealism", "Communication"],
+    "weaknesses": ["Overly emotional", "Impractical", "Difficulty with criticism", "Unrealistic expectations"],
+    "tips": ["Balance idealism with practicality", "Build resilience to criticism", "Develop time management skills", "Ground yourself in reality"],
+    "image": "/images/infp.jpg"
+  },
+  "INTP": {
+    "description": "The Logician - Logical, analytical, and innovative. Logicians are abstract thinkers who love exploring ideas and understanding how things work.",
+    "characteristics": ["Analytical", "Logical", "Creative", "Objective", "Independent"],
+    "strengths": ["Analytical thinking", "Logical reasoning", "Creativity", "Independence", "Innovation"],
+    "weaknesses": ["Social withdrawal", "Difficulty with emotions", "Procrastination", "Insensitivity"],
+    "tips": ["Build social connections", "Develop emotional understanding", "Improve time management", "Practice interpersonal skills"],
+    "image": "/images/intp.jpg"
+  },
+  "ESTP": {
+    "description": "The Entrepreneur - Energetic, pragmatic, and bold. Entrepreneurs are natural leaders who thrive in action-oriented environments and enjoy taking risks.",
+    "characteristics": ["Energetic", "Pragmatic", "Bold", "Spontaneous", "Charismatic"],
+    "strengths": ["Action-oriented", "Problem-solving", "Charisma", "Risk-taking", "Adaptability"],
+    "weaknesses": ["Recklessness", "Insensitivity", "Difficulty planning", "Impatience"],
+    "tips": ["Develop long-term thinking", "Consider emotional impact", "Practice patience", "Manage risk appropriately"],
+    "image": "/images/estp.jpg"
+  },
+  "ESFP": {
+    "description": "The Entertainer - Spontaneous, outgoing, and fun-loving. Entertainers are natural performers who love being the center of attention and making others happy.",
+    "characteristics": ["Spontaneous", "Outgoing", "Creative", "Warm", "Fun-loving"],
+    "strengths": ["Charisma", "Spontaneity", "Enthusiasm", "Social skills", "Creativity"],
+    "weaknesses": ["Irresponsibility", "Difficulty focusing", "Shallow relationships", "Poor planning"],
+    "tips": ["Develop responsibility", "Improve focus and consistency", "Build deeper relationships", "Plan for the future"],
+    "image": "/images/esfp.jpg"
+  },
+  "ENFP": {
+    "description": "The Campaigner - Enthusiastic, creative, and sociable. Campaigners are natural communicators who inspire others and bring joy to those around them.",
+    "characteristics": ["Enthusiastic", "Creative", "Sociable", "Spontaneous", "Empathetic"],
+    "strengths": ["Enthusiasm", "Creativity", "Communication", "Empathy", "Networking"],
+    "weaknesses": ["Lack of focus", "Impatience", "Difficulty with criticism", "Overcommitment"],
+    "tips": ["Develop sustained focus", "Practice follow-through", "Build resilience to feedback", "Learn to say no"],
+    "image": "/images/enfp.jpg"
+  },
+  "ENTP": {
+    "description": "The Debater - Intelligent, curious, and innovative. Debaters are natural inventors who love exploring ideas and challenging the status quo.",
+    "characteristics": ["Intelligent", "Curious", "Innovative", "Analytical", "Argumentative"],
+    "strengths": ["Intellectual ability", "Innovation", "Argumentation", "Problem-solving", "Adaptability"],
+    "weaknesses": ["Insensitivity", "Difficulty committing", "Arrogance", "Poor follow-through"],
+    "tips": ["Develop empathy and social awareness", "Improve commitment and follow-through", "Practice humility", "Balance debate with listening"],
+    "image": "/images/entp.jpg"
+  },
+  "ESTJ": {
+    "description": "The Executive - Practical, logical, and reliable. Executives are natural leaders who excel at organizing people and resources to achieve goals.",
+    "characteristics": ["Organized", "Logical", "Responsible", "Leadership", "Practical"],
+    "strengths": ["Organization", "Leadership", "Logical thinking", "Responsibility", "Efficiency"],
+    "weaknesses": ["Inflexibility", "Insensitivity", "Difficulty with emotions", "Overly critical"],
+    "tips": ["Embrace change and flexibility", "Develop emotional intelligence", "Listen to others' perspectives", "Practice empathy"],
+    "image": "/images/estj.jpg"
+  },
+  "ESFJ": {
+    "description": "The Consul - Warm, reliable, and supportive. Consuls are natural caregivers who excel at creating harmony and building strong relationships.",
+    "characteristics": ["Warm", "Reliable", "Supportive", "Organized", "Popular"],
+    "strengths": ["Warmth", "Loyalty", "Organization", "Cooperation", "Social skills"],
+    "weaknesses": ["Difficulty handling criticism", "Need for approval", "Overcritical of others", "Resistance to change"],
+    "tips": ["Build self-confidence", "Develop independence", "Practice objectivity", "Accept different perspectives"],
+    "image": "/images/esfj.jpg"
+  },
+  "ENFJ": {
+    "description": "The Commander - Charismatic, inspiring, and principled. Commanders are natural leaders who are driven by a desire to help others reach their potential.",
+    "characteristics": ["Charismatic", "Inspiring", "Principled", "Leadership", "Empathetic"],
+    "strengths": ["Leadership", "Charisma", "Empathy", "Communication", "Inspiration"],
+    "weaknesses": ["Overly idealistic", "Difficulty with criticism", "Manipulation risk", "Burnout risk"],
+    "tips": ["Accept people's imperfections", "Handle feedback constructively", "Use influence ethically", "Practice self-care"],
+    "image": "/images/enfj.jpg"
+  },
+  "ENTJ": {
+    "description": "The Visionary - Strategic, ambitious, and commanding. Visionaries are natural leaders with a clear vision of the future and the determination to achieve it.",
+    "characteristics": ["Strategic", "Ambitious", "Commanding", "Logical", "Independent"],
+    "strengths": ["Strategic thinking", "Ambition", "Leadership", "Confidence", "Independence"],
+    "weaknesses": ["Arrogance", "Insensitivity", "Difficulty with emotions", "Overconfidence"],
+    "tips": ["Develop humility and empathy", "Listen to others' ideas", "Understand emotional impact", "Build collaborative skills"],"image": "/images/entj.jpg"
+  }
+}

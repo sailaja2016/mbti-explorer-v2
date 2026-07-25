@@ -1,0 +1,148 @@
+{
+  "understanding_mbti": [
+    {
+      "keywords": ["what is mbti", "what does mbti", "mbti definition", "mbti meaning", "tell me about mbti", "explain mbti"],
+      "answer": "MBTI stands for Myers-Briggs Type Indicator. It's a personality framework that categorizes people into 16 types based on 4 dimensions: how you direct energy (Introversion/Extraversion), gather information (Sensing/Intuition), make decisions (Thinking/Feeling), and organize life (Judging/Perceiving). It helps you understand yourself and others better! 🧠"
+    },
+    {
+      "keywords": ["what do letters mean", "what does it mean", "e i s n t f j p", "mbti letters", "what do the letters", "letter meanings", "explain letters"],
+      "answer": "Great question! The letters represent:\n• E/I: Extraversion (energized by people) vs Introversion (energized by alone time)\n• S/N: Sensing (focuses on facts) vs Intuition (focuses on possibilities)\n• T/F: Thinking (logical decisions) vs Feeling (values-based decisions)\n• J/P: Judging (structured) vs Perceiving (flexible)\n\nEach combination creates a unique personality type!"
+    },
+    {
+      "keywords": ["is mbti accurate", "scientific", "psychology", "is it real", "is mbti real", "valid"],
+      "answer": "MBTI is a useful framework for self-understanding and personal growth. While it's not as rigorously validated as some psychological models, millions find it valuable for understanding themselves and improving relationships. Think of it as a helpful starting point for self-reflection rather than a definitive diagnosis! 💭"
+    },
+    {
+      "keywords": ["mbti vs big five", "compare models", "differences", "big five personality"],
+      "answer": "Both are personality frameworks but work differently:\n• MBTI: 4 dimensions, 16 types, focuses on preferences and how you approach life\n• Big Five: 5 continuous traits (Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism), more scientifically researched\n\nMBTI is great for self-understanding; Big Five is more research-backed. Many people find value in both!"
+    },
+    {
+      "keywords": ["how does mbti work", "mbti system", "explain mbti", "how it works"],
+      "answer": "MBTI works by measuring 4 preference dimensions:\n1. Energy: Do you prefer Extraversion or Introversion?\n2. Information: Do you prefer Sensing or Intuition?\n3. Decision-making: Do you prefer Thinking or Feeling?\n4. Lifestyle: Do you prefer Judging or Perceiving?\n\nYour answers to 60 questions determine which preference you lean toward in each dimension, resulting in your 4-letter type!"
+    }
+  ],
+
+  "type_descriptions": [
+    {
+      "keywords": ["what is infj", "why someone is infj", "infj benefits", "what does it mean by infj", "infj type", "who is infj", "tell me infj", "explain infj", "infj personality"],
+      "answer": "INFJ — The Advocate 🕊️\n\nINFJs are insightful, caring, and driven by deep values. They:\n• See patterns and possibilities others miss\n• Feel things deeply and care about impact\n• Are natural counselors and mentors\n• Work toward a better world\n• Value authentic, meaningful relationships\n• Often feel misunderstood or different\n\nStrengths: Insight, empathy, dedication, vision\nChallenges: Perfectionism, boundary-setting, overwhelm\nPopulation: ~1-2% (rarest type)\n\nINFJs are the visionary helpers — they understand people profoundly and inspire change! 💭"
+    },
+    {
+      "keywords": ["what is infp","why someone is infp", "infp benefits", "what does it mean by infp", "infp type", "who is infp", "tell me infp", "explain infp", "infp personality"],
+      "answer": "INFP — The Mediator 🎨\n\nINFPs are idealistic, creative, and authentic. They:\n• Dream of a better world\n• Follow their values above all else\n• Are deeply creative and introspective\n• Seek meaningful connections\n• Feel emotions intensely\n• Want to make a personal impact\n\nStrengths: Creativity, authenticity, idealism, empathy\nChallenges: Perfectionism, difficulty finishing, idealism vs reality\nPopulation: ~4-5%\n\nINFPs are the creative dreamers — their authenticity inspires others! 🌈"
+    },
+    {
+      "keywords": ["what is intj","why someone is intj", "intj benefits", "what does it mean by intj", "intj type", "who is intj", "tell me intj", "explain intj", "intj personality"],
+      "answer": "INTJ — The Architect 🏗️\n\nINTJs are strategic, independent, and visionary. They:\n• See the blueprint of how systems work\n• Think long-term and strategically\n• Value competence and intelligence\n• Work independently toward big goals\n• Question everything and think critically\n• Are naturally strategic leaders\n\nStrengths: Strategic thinking, independence, intelligence, vision\nChallenges: Bluntness, emotional disconnect, perfectionism\nPopulation: ~2-4%\n\nINTJs are the brilliant strategists — their vision shapes the future! 🎯"
+    },
+    {
+      "keywords": ["what is intp","why someone is intp", "intp benefits", "what does it mean by intp", "intp type", "who is intp", "tell me intp", "explain intp", "intp personality"],
+      "answer": "INTP — The Logician 🔬\n\nINTPs are curious, logical, and analytical. They:\n• Love understanding how things work\n• Enjoy intellectual puzzles and ideas\n• Think deeply and often innovate\n• Are independent thinkers\n• Value knowledge and truth\n• Get lost in complex concepts\n\nStrengths: Analysis, innovation, intellectual depth, objectivity\nChallenges: Perfectionism, procrastination, emotional expression\nPopulation: ~4-5%\n\nINTPs are the curious investigators — their insights unlock new possibilities! 💡"
+    },
+    {
+      "keywords": ["what is enfj","why someone is enfj", "enfj benefits", "what does it mean by enfj", "enfj type", "who is enfj", "tell me enfj", "explain enfj", "enfj personality"],
+      "answer": "ENFJ — The Protagonist 🎭\n\nENFJs are charismatic, inspiring, and people-focused. They:\n• Inspire and motivate others\n• Care deeply about personal growth\n• Are natural leaders and organizers\n• Read people with remarkable accuracy\n• Work toward helping others thrive\n• Are driven by meaningful causes\n\nStrengths: Leadership, empathy, charisma, inspiration\nChallenges: Over-involvement, burnout, need for control\nPopulation: ~2-3%\n\nENFJs are the inspiring leaders — their presence brings out the best in others! 💪"
+    },
+    {
+      "keywords": ["what is enfp","why someone is enfp", "enfp benefits", "what does it mean by enfp", "enfp type", "who is enfp", "tell me enfp", "explain enfp", "enfp personality"],
+      "answer": "ENFP — The Campaigner 🎉\n\nENFPs are enthusiastic, spontaneous, and creative. They:\n• See exciting possibilities everywhere\n• Bring energy and joy to any situation\n• Are naturally creative and adaptable\n• Care about making a difference\n• Love connecting with diverse people\n• Embrace change and new experiences\n\nStrengths: Enthusiasm, creativity, adaptability, empathy\nChallenges: Scattered focus, commitment, emotional intensity\nPopulation: ~7-8%\n\nENFPs are the enthusiastic creators — their energy inspires action! 🚀"
+    },
+    {
+      "keywords": ["what is entj","why someone is entj", "entj benefits", "what does it mean by entj", "entj type", "who is entj", "tell me entj", "explain entj", "entj personality"],
+      "answer": "ENTJ — The Commander ⚡\n\nENTJs are ambitious, strategic, and decisive. They:\n• Are natural-born leaders and executives\n• Think strategically and act decisively\n• Build systems and organizations\n• Drive toward goals with determination\n• Value efficiency and competence\n• Aren't afraid to challenge the status quo\n\nStrengths: Leadership, strategy, decisiveness, ambition\nChallenges: Bluntness, impatience, dismissing others' input\nPopulation: ~1-3%\n\nENTJs are the commanding leaders — their drive gets things done! 🎯"
+    },
+    {
+      "keywords": ["what is entp","why someone is entp", "entp benefits", "what does it mean by entp", "entp type", "who is entp", "tell me entp", "explain entp", "entp personality"],
+      "answer": "ENTP — The Debater 💬\n\nENTPs are innovative, curious, and argumentative. They:\n• Love intellectual debate and challenge\n• See multiple perspectives instantly\n• Are natural innovators and inventors\n• Enjoy playing devil's advocate\n• Are quick thinkers and adapters\n• Get bored with routine easily\n\nStrengths: Innovation, quick thinking, adaptability, intelligence\nChallenges: Argumentativeness, commitment, following through\nPopulation: ~3-4%\n\nENTPs are the clever innovators — their ideas spark revolution! 🔥"
+    },
+    {
+      "keywords": ["what is isfj","why someone is isfj", "isfj benefits", "what does it mean by isfj", "isfj type", "who is isfj", "tell me isfj", "explain isfj", "isfj personality"],
+      "answer": "ISFJ — The Protector 🛡️\n\nISFJs are loyal, practical, and caring. They:\n• Are the backbone of supportive relationships\n• Care for others through practical help\n• Remember important details about people\n• Value tradition and loyalty\n• Work steadily and reliably\n• Want to make a tangible difference\n\nStrengths: Loyalty, care, reliability, attention to detail\nChallenges: Self-sacrifice, shyness, difficulty with change\nPopulation: ~13-14% (most common)\n\nISFJs are the loyal protectors — their care sustains communities! 💕"
+    },
+    {
+      "keywords": ["what is isfp","why someone is isfp", "isfp benefits", "what does it mean by isfp", "isfp type", "who is isfp", "tell me isfp", "explain isfp", "isfp personality"],
+      "answer": "ISFP — The Composer 🎵\n\nISFPs are artistic, gentle, and authentic. They:\n• Are naturally creative and aesthetic\n• Live in the present moment\n• Follow their personal values closely\n• Are sensitive and empathetic\n• Want to make a personal difference\n• Avoid conflict and seek harmony\n\nStrengths: Creativity, authenticity, empathy, artistic ability\nChallenges: Conflict avoidance, shyness, emotional sensitivity\nPopulation: ~8-9%\n\nISFPs are the gentle artists — their creativity brings beauty! 🎨"
+    },
+    {
+      "keywords": ["what is istj","why someone is istj", "istj benefits", "what does it mean by istj", "istj type", "who is istj", "tell me istj", "explain istj", "istj personality"],
+      "answer": "ISTJ — The Logistician 📋\n\nISTJs are responsible, practical, and organized. They:\n• Are the ultimate dependable organizers\n• Follow through on commitments\n• Build systems and structures\n• Value duty and responsibility\n• Are logical and straightforward\n• Create order from chaos\n\nStrengths: Responsibility, organization, reliability, logic\nChallenges: Rigidity, emotional expression, difficulty with change\nPopulation: ~11-12%\n\nISTJs are the reliable organizers — their systems keep things running! ⚙️"
+    },
+    {
+      "keywords": ["what is istp","why someone is istp", "istp benefits", "what does it mean by istp", "istp type", "who is istp", "tell me istp", "explain istp", "istp personality"],
+      "answer": "ISTP — The Virtuoso 🔧\n\nISTPsare logical, practical, and independent. They:\n• Are master problem-solvers and tinkerers\n• Understand how things work\n• Act with precision and competence\n• Are calm under pressure\n• Value independence and skill\n• Learn through doing\n\nStrengths: Problem-solving, logic, calm presence, competence\nChallenges: Emotional expression, commitment, insensitivity\nPopulation: ~5-6%\n\nISTPsare the skilled problem-solvers — their fixes work! 🛠️"
+    },
+    {
+      "keywords": ["what is esfj","why someone is esfj", "estj benefits", "what does it mean by esfj", "esfj type", "who is esfj", "tell me esfj", "explain esfj", "esfj personality"],
+      "answer": "ESFJ — The Consul 👥\n\nESFJs are social, caring, and organized. They:\n• Are the ultimate social connectors\n• Care about group harmony\n• Are naturally hospitable and warm\n• Organize people and events skillfully\n• Follow traditions and values\n• Want to be appreciated\n\nStrengths: Social skills, warmth, organization, care\nChallenges: People-pleasing, difficulty with criticism, rigidity\nPopulation: ~11-12%\n\nESFJs are the warm connectors — their care brings people together! 🤝"
+    },
+    {
+      "keywords": ["what is esfp","why someone is esfp", "esfp benefits", "what does it mean by esfp", "esfp type", "who is esfp", "tell me esfp", "explain esfp", "esfp personality"],
+      "answer": "ESFP — The Entertainer 🎪\n\nESFPs are spontaneous, fun-loving, and energetic. They:\n• Bring joy and excitement to every situation\n• Live fully in the present moment\n• Are naturally charismatic and engaging\n• Make people feel welcome and valued\n• Adapt easily to new situations\n• Seek new experiences and adventures\n\nStrengths: Energy, charisma, adaptability, spontaneity\nChallenges: Scattered focus, difficulty with planning, impulsivity\nPopulation: ~8-9%\n\nESFPs are the joyful entertainers — their energy is infectious! 🎉"
+    },
+    {
+      "keywords": ["what is estj","why someone is estj", "estj benefits", "what does it mean by estj", "estj type", "who is estj", "tell me estj", "explain estj", "estj personality"],
+      "answer": "ESTJ — The Supervisor 👔\n\nESTJs are practical, logical, and commanding. They:\n• Are natural organizers and managers\n• Create order and structure\n• Are straightforward and decisive\n• Value tradition and efficiency\n• Take charge and get results\n• Hold themselves and others accountable\n\nStrengths: Leadership, organization, decisiveness, efficiency\nChallenges: Rigidity, insensitivity, difficulty with change\nPopulation: ~8-9%\n\nESTJs are the commanding supervisors — their leadership delivers results! 📊"
+    },
+    {
+      "keywords": ["what is estp", "why someone is estp", "estp benefits", "what does it mean by estp", "estp type", "who is estp", "tell me estp", "explain estp", "estp personality"],
+      "answer": "ESTP — The Dynamo ⚡\n\nESTPsare energetic, bold, and pragmatic. They:\n• Are action-oriented and risk-takers\n• See opportunities instantly\n• Solve problems on the fly\n• Bring excitement and energy\n• Are observant and realistic\n• Excel in crisis situations\n\nStrengths: Energy, action-orientation, problem-solving, boldness\nChallenges: Impulsivity, insensitivity, difficulty following through\nPopulation: ~4-5%\n\nESTPsare the bold action-takers — their energy drives results! 🚀"
+    }
+  ],
+
+  "test_information": [
+    {
+      "keywords": ["how can this test help", "why this test", "help me", "benefits", "benefits of test", "test help", "what will help"],
+      "answer": "Taking the MBTI test can help you:\n\n✅ Self-Understanding: Discover why you think and act the way you do\n✅ Career Clarity: Find careers that energize rather than drain you\n✅ Better Relationships: Understand why others tick differently\n✅ Communication: Improve how you connect with others\n✅ Personal Growth: Identify growth areas specific to you\n✅ Decision Making: Make choices aligned with who you really are\n✅ Reduce Stress: Stop fighting your nature and work WITH it\n✅ Build Confidence: Validate your natural strengths\n\nOur test takes just 5 minutes and gives you instant insights! 🎯"
+    },
+    {
+      "keywords": ["why should i take test", "why take", "use of", "should i", "worth it", "should i take", "take the test"],
+      "answer": "You should take this test because:\n\n🧠 Know Yourself Better: Understand your deepest motivations and preferences\n💼 Career Success: Find work that actually energizes you\n💕 Stronger Relationships: Understand why people tick differently\n🚀 Personal Growth: Get a roadmap for development\n🎯 Clarity: Stop feeling lost; get direction\n✨ Confidence: Validate that you're not 'broken' — just unique\n⚡ Problem-Solving: Understand why you struggle in certain areas\n💡 Decision Making: Make choices aligned with your authentic self\n\nIt's quick, free, and genuinely transformative! 🎉"
+    },
+    {
+      "keywords": ["what will i learn", "what will i discover", "find out", "what will", "learn"],
+      "answer": "Taking our test, you'll discover:\n\n✨ Your 4-Letter Type: Like INFJ, ESTP, etc. — your personality code\n📊 Your Trait Percentages: How much you lean toward each preference\n💪 Your Strengths: What makes you naturally gifted\n🌱 Growth Areas: Where you can develop and expand\n💼 Ideal Careers: Jobs that match your type\n💕 Relationship Dynamics: How you connect with others\n🎯 Personal Tips: Customized advice for your type\n🔍 Deep Insights: Why you react, think, and feel the way you do\n\nYou'll walk away with a clear, empowering picture of who you are! 🌟"
+    },
+    {
+      "keywords": ["accurate", "proven", "trust", "results", "correct", "can i trust", "is accurate", "reliable"],
+      "answer": "Our test is thoughtfully designed based on authentic MBTI dimensions. Here's what to know:\n\n✅ Reliable: Based on proven personality framework\n✅ Instant: Get results immediately\n✅ Personalized: 60 questions for accuracy\n✅ Honest: Answer authentically for best results\n\n⚠️ Remember:\n• Your mood that day can shift answers slightly\n• Stress can make you behave differently\n• Your core type is stable, but preferences flex based on context\n• Think of it as a starting point for self-reflection\n\nThe test is accurate when you answer honestly about your NATURAL preferences! 🎯"
+    },
+    {
+      "keywords": ["how long", "quick", "how much time", "time", "minutes", "how many questions"],
+      "answer": "Our MBTI test is quick and easy:\n\n⏱️ Duration: Only 5-10 minutes\n❓ Questions: 60 questions total\n📱 Format: Simple Likert scale (Strongly Disagree → Strongly Agree)\n⚡ Speed: Answer as fast or slow as you like\n📊 Results: Instant! Get your type and insights immediately\n\nYou'll have your personality profile before you know it! 🚀"
+    },
+    {
+      "keywords": ["after test", "now what", "what happens", "next", "after", "then"],
+      "answer": "After you take the test, here's what happens:\n\n1️⃣ Instant Results: See your 4-letter type immediately\n2️⃣ Detailed Profile: Learn about your type's strengths and challenges\n3️⃣ Career Insights: Discover careers that fit you\n4️⃣ Relationship Tips: Understand how you connect with others\n5️⃣ Growth Areas: See where you can develop\n6️⃣ Explore More: Use our resources to dive deeper\n7️⃣ Chat with Mello: Ask me questions about your type anytime!\n\nYour personality journey is just beginning! 🌟"
+    },
+    {
+      "keywords": ["who should", "use of", "for me", "right for", "is this"],
+      "answer": "This test is for YOU if:\n\n✅ You want to understand yourself better\n✅ You're exploring career options\n✅ You're struggling in relationships\n✅ You want to leverage your strengths\n✅ You're curious about personality\n✅ You want clarity on life direction\n✅ You're working on personal growth\n✅ You want to understand others better\n\nHonestly? If you're even a little curious, take it! It takes 5 minutes and often provides genuine insights. 🎯"
+    },
+    {
+      "keywords": ["answer honestly", "how to answer", "tips", "answer"],
+      "answer": "To get the most accurate results:\n\n💭 Be Honest: Answer based on your NATURAL preferences, not how you wish to be\n🎯 Answer Quickly: Don't overthink — your gut reaction is usually right\n😌 Be Yourself: Don't answer how you act at work or in public — answer as your true self\n⏰ When You're Calm: Take the test when you're not stressed or emotional\n✨ Trust Your Instinct: There's no 'right' answer — just your authentic answer\n\nHonest answers = accurate results = genuine insights! 🌟"
+    },
+    {
+      "keywords": ["retake", "should i take again", "take again", "again", "multiple times", "different results"],
+      "answer": "Absolutely! You can take the test multiple times:\n\n✅ Retake Anytime: No limit on taking it again\n⚠️ Might Get Slight Variations: Stress, mood, and context can shift answers\n🎯 Your Core Type is Usually Stable: The letter that changes is usually temporary\n🔄 Compare Results: See how factors like stress affect you\n💡 Learn More: Retaking can deepen your understanding\n\nYour type tends to stay consistent, but retaking can reveal how context affects your behavior! 🔍"
+    },
+    {
+      "keywords": ["wrong type", "got my type wrong", "not right", "mistyped", "doesn't feel", "not accurate", "inaccurate", "incorrect"],
+      "answer": "If your results don't feel right:\n\n🔍 Double-Check: Reread your type description\n❓ Ask Yourself: Did you answer based on your NATURAL self or how you act?\n🎯 Try Again: Retake the test when calm and thinking clearly\n💬 Talk to Mello: Tell me about yourself and I can help verify\n📚 Research: Read about different types and see which resonates\n🎭 Consider Context: Do you act differently at work vs home?\n\nSometimes we're surprised by our results — that's valuable self-discovery! 🌟"
+    }
+  ],
+
+  "golden_pairs": [
+    {
+      "keywords": ["golden pairs", "my pair with", "best match", "perfect match", "compatible", "most compatible", "pair well"],
+      "answer": "While all types can have successful relationships, some pairings have natural complementarity! Common 'golden pairs' include:\n\n• INFJ + ENFP: Deep understanding meets spontaneity\n• INTJ + ENFP: Vision meets enthusiasm\n• INFP + ENFJ: Idealism meets inspiration\n• ISTJ + ESFP: Stability meets excitement\n• ISFJ + ESFP: Loyalty meets joy\n\nRemember: love isn't determined by type! These pairs simply understand each other naturally. Any two types can thrive with effort and communication. 💕"
+    }
+  ],
+
+  "fallback": [
+    {
+      "keywords": ["hello", "bro", "hi", "hey", "mello", "help"],
+      "answer": "Hey there! 👋 I'm Mello, your MBTI personality guide! I can help with:\n• Understanding all 16 MBTI types\n• Discovering your personality type\n• Exploring type compatibility and relationships\n• Career guidance by personality\n• Population stats and rare types\n• Type complications and growth\n• Personal development tips\n\nWhat would you like to explore about personality? 🧠"
+    }
+  ]
+}
