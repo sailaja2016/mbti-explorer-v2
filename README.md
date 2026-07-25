@@ -51,6 +51,7 @@ A full-stack personality assessment web application that helps users discover th
 - **React 18** - UI framework
 - **Vite 4** - Fast build tool
 - **React Router 6** - Navigation
+- **Axios** - API requests
 - **CSS3** - Styling (no external UI libraries)
 
 ### Backend
