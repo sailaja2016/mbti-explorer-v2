@@ -2,9 +2,6 @@
   "buildCommand": "npm install && npm run build",
   "outputDirectory": "dist",
   "framework": "vite",
-  "env": {
-    "VITE_API_URL": "https://your-backend-api-url.com"
-  },
   "rewrites": [
     {
       "source": "/(.*)",
