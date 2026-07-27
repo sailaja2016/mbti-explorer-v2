@@ -45,6 +45,19 @@ A full-stack personality assessment web application that helps users discover th
 
 ---
 
+## 🖥️ Screenshots
+<img width="1920" height="824" alt="1" src="https://github.com/user-attachments/assets/80c3f05d-0be0-4619-bec0-4a014b4400d6" />
+<img width="1920" height="811" alt="2" src="https://github.com/user-attachments/assets/9597c3ff-ff09-4d06-926a-d89372ee373f" />
+<img width="1920" height="817" alt="3" src="https://github.com/user-attachments/assets/dd2488cf-dea8-4e41-b3ff-9b6d724b0f9b" />
+<img width="1920" height="828" alt="4" src="https://github.com/user-attachments/assets/a2c2ed0c-fbf3-4a58-ad62-2f4ea780a3ee" />
+<img width="1920" height="828" alt="5" src="https://github.com/user-attachments/assets/f95c9ef1-c936-4c65-8008-4df574c17a5b" />
+<img width="1920" height="820" alt="6" src="https://github.com/user-attachments/assets/b47db8f5-25e7-4739-b9f0-746ba2585af8" />
+<img width="1920" height="824" alt="7" src="https://github.com/user-attachments/assets/97a897b2-abf3-4c0f-a8f9-dc034ec2dca7" />
+<img width="1920" height="817" alt="8" src="https://github.com/user-attachments/assets/38e52f36-1278-4c50-8b02-917c02719d32" />
+<img width="1920" height="820" alt="9" src="https://github.com/user-attachments/assets/0bfd392b-a47e-4bfd-96b9-024b5a733d57" />
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Frontend
