@@ -3,8 +3,9 @@
 A full-stack personality assessment web application that helps users discover their MBTI personality type, explore career compatibility, and understand their personality through the Enneagram system.
 
 **Live Demo**: https://mbti-explorer-v2.vercel.app/
--
+
 **GitHub**: [sailaja2016/mbti-explorer-v2](https://github.com/sailaja2016/mbti-explorer-v2)
+
 
 ---
 
