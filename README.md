@@ -4,9 +4,6 @@ A full-stack personality assessment web application that helps users discover th
 
 **Live Demo**: https://mbti-explorer-v2.vercel.app/
 
-**GitHub**: [sailaja2016/mbti-explorer-v2](https://github.com/sailaja2016/mbti-explorer-v2)
-
-
 ---
 
 ## ✨ Features
