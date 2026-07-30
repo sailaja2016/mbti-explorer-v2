@@ -72,8 +72,8 @@ A full-stack personality assessment web application that helps users discover th
 - **Python 3.8+** - Backend language
 
 ### Deployment
-- **Vercel** - Frontend hosting(soon)
-- **Render** - Backend hosting(soon)
+- **Vercel** - Frontend hosting (https://mbti-explorer-v2.vercel.app/)
+- **Render** - Backend hosting (https://mbti-explorer-v2.onrender.com)
 
 ---
 
